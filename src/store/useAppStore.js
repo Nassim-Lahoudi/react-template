@@ -1,6 +1,6 @@
 import { create } from 'zustand'
 
-const useAppStore = create((set) => ({
+const useAppStore = create(() => ({
   // globaler State hier
 }))
 
