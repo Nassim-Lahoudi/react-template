@@ -12,11 +12,11 @@ Production-ready React + Vite template with React Router, Axios, Zustand, ESLint
 
 ## Getting Started
 
-\```powershell
+```powershell
 npm install
 copy .env.example .env
 npm run dev
-\```
+```
 
 ## Adding a New Route
 
