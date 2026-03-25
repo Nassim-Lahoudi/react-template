@@ -1,0 +1,27 @@
+{
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "printWidth": 100
+}
+```
+
+---
+
+### `.env.example`
+```
+VITE_API_URL=https://api.example.com
+VITE_APP_NAME=MeinApp
+```
+
+---
+
+### `.gitignore`
+```
+node_modules
+dist
+.env
+.env.local
+.env.*.local
+.DS_Store
