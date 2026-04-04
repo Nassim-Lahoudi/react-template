@@ -1,3 +1,6 @@
+import { Link } from 'react-router-dom'
+import './global.css'
+
 function Home() {
     return (
         <div className="page">
